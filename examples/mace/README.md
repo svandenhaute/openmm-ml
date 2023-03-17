@@ -13,7 +13,7 @@ Then you will need to install MACE and this fork of openmm-ml with pip:
 
 ```
 pip install git+https://github.com/ACEsuit/mace
-pip install git+https://github.com/sef43/openmm-ml@mace
+pip install git+https://github.com/sef43/openmm-ml@develop
 ```
 
 ## Usage

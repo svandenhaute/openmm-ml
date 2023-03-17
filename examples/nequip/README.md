@@ -15,7 +15,7 @@ Then install NequIP development branch, this version of openmm-ml, and [torch-nl
 
 ```
 pip install git+https://github.com/mir-group/nequip@develop
-pip install git+https://github.com/sef43/openmm-ml@nequip
+pip install git+https://github.com/sef43/openmm-ml@develop
 pip install torch-nl
 ```
 
